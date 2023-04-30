@@ -7,7 +7,7 @@ gitbook build
 git add .
 
 # Commit changes
-git commit -m "Automatisk upload fra Discord Bot"
+git commit -m "TSRP Gitbook Discord Bot by Alexio"
 
 # Push changes to GitBook
 git push gitbook master
