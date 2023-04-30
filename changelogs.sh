@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Build the GitBook
 gitbook build
@@ -11,3 +11,6 @@ git commit -m "Update GitBook"
 
 # Push changes to GitBook
 git push gitbook master
+
+
+
